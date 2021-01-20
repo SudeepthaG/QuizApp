@@ -1,2 +1,2 @@
 # QuizApp
-App serving educational content through React Native-- Key Learning
+React Native App serving educational content through React Native-- Key Learning
